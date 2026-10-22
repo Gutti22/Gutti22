@@ -37,7 +37,13 @@ I'm currently strengthening my backend engineering portfolio through projects fo
 
 ## 📌 Featured Projects
 
-Projects coming soon.
+### [Administrative Management System](https://github.com/Gutti22/administrative-management-system-dotnet)
+
+**C# · .NET 8 · Blazor Server · ADO.NET · MySQL · GitHub Actions**
+
+Administrative platform for customer, product, invoice, inventory, reporting, and error-log management. Built with a layered architecture, transactional invoicing, server-side price validation, concurrency-safe stock updates, and continuous integration.
+
+_More backend projects coming soon._
 
 ## 🌎 About Me
 
